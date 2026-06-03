@@ -5,15 +5,15 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTWkRGNmF6QXJWM1oyZDFaeFJUVjBaR3BIT0RadWJHVm9hRVZMTldWQ1lVWnljRXRtTVdoM1EzZDVVV05SYjBkS2FrVXJhR1IwWjNwTE5rTkZaWEZZWm5kM1NWbzRiRWRpYlRCTGJHSktORFpaUmpnemFYcG1VVkJ0UzBGemFuZGpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd05EVTJOelEwQ1dacGJHVTZUV0ZzYkdGeVpDNWhjSEF1ZEdGeUxtZDZDblZzU1hsSmVEVmlSeXMyYjFZNE0ySmFZemczZFRodFNHSk5lRnBtY25wQ2NtTlJkMkZ0UkU5c1ZUaDNZbEJwVUdWb2JFYzFPVmxrTDIxTFR6bFdkWE5ZVW1OcWJWUnhPV2hWV1hNMVNYWkZWa2xXY0VOUlBUMEs=",
-      "url": "https://github.com/wizardquack/mallard/releases/download/v0.3.4/Mallard_aarch64.app.tar.gz"
+      "url": "https://mallard-updates.vnsf.xyz/artifacts/v0.3.4/Mallard_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTWkRGNmF6QXJWM1oyZDJZclltbFVVbk0xU1c1Wk5sWmtNakV5TVU1R2RrOUlVMFJrTTB0aU1TOTROMDB4YVVKMk1rZExlRFY2UWtGWmExWXdWblJLYWs5MVZUUTNRbEUxYW01RE9HSllUM0V3WTFjNFJtVnJSVEZ2WW1oR1ExRm5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd05EVTNNak0yQ1dacGJHVTZUV0ZzYkdGeVpGOHdMak11TkY5aGJXUTJOQzVCY0hCSmJXRm5aUXBYVTBaTlJ6aEhiSFZUWjA1cmMwaEJaUzlhTWxGbk5rdDJVelptV1ZKV1FVeERiV05yVDJGUFYybFdTME51TVRaRVpEWTNZbEpoSzAxaFNFa3hiMFo2VVhOamJXMW9kalJ1Umk5S2VGVmtPVEF2Y1c1RWR6MDlDZz09",
-      "url": "https://github.com/wizardquack/mallard/releases/download/v0.3.4/Mallard_0.3.4_amd64.AppImage"
+      "url": "https://mallard-updates.vnsf.xyz/artifacts/v0.3.4/Mallard_0.3.4_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTWkRGNmF6QXJWM1oyZDFWU2FtZHVSakphVVhSS05HYzRlbWhOYVVSYVVEbGxTSHBLTDJwSFdWTmFaVnAwV0hkeFltMVdOM1JaWjFndmNVb3hUa1ZFVlU1aGJFazJTR1owWWpCalQzRlBabkZWUjJGNlYwTnFXWFF3VmpWd1psRnZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd05EVTNORGM1Q1dacGJHVTZUV0ZzYkdGeVpGOHdMak11TkY5NE5qUmZaVzR0VlZNdWJYTnBDbGcyYmxGMlRTOUthalV5T1RocmFHcFhZV0Z2VGpadFFVbEpTVWN6VjNKVGNIVllSek5zTWtGYWVFRjZZbkEzVUVFeGVGUjVZVlpHYm01UmNuZzBVbTByWVRkNE4zaHVXbTVhWlVKdVdrRkJNaXN4UlVOUlBUMEs=",
-      "url": "https://github.com/wizardquack/mallard/releases/download/v0.3.4/Mallard_0.3.4_x64_en-US.msi"
+      "url": "https://mallard-updates.vnsf.xyz/artifacts/v0.3.4/Mallard_0.3.4_x64_en-US.msi"
     }
   }
 }
