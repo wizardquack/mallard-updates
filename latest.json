@@ -1,6 +1,19 @@
 {
-  "version": "v0.0.0",
-  "notes": "Initial bootstrap — first signed release will overwrite.",
-  "pub_date": "2026-06-02T00:00:00Z",
-  "platforms": {}
+  "version": "v0.3.2",
+  "notes": "See https://github.com/wizardquack/mallard/releases/tag/v0.3.2",
+  "pub_date": "2026-06-03T02:32:07Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTWkRGNmF6QXJWM1oyZDFodFV6ZHlXbFpJU1hOd05EZFZlVmhsWVRaVVNUWmFjamt5TUVsblprbDRSVEY0VGpRclpESXdNelY1Y201TmRYbEtNMHRhVlVreUt5OTJjblF2TjIweVJsZFpZM0ZyUWpnMWIyOVhaM1Z5WmpkNFNXZHJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd05EVXpPVEkxQ1dacGJHVTZUV0ZzYkdGeVpDNWhjSEF1ZEdGeUxtZDZDalJKVnpObVJsUlJUM0pFVGxKUlltWXZSMjF0WTFkR1RsRlRPSHA0VDBwVmNVVTFPV3Q0YTFsTWNsTXpRMGg1VnpGUGQxUXdkamxPVm1rd2VHMHJZbTlvWldJNWNWQjJiRTFqT1dWSVluSkJlVUpIUlVKM1BUMEs=",
+      "url": "https://github.com/wizardquack/mallard/releases/download/v0.3.2/Mallard_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTWkRGNmF6QXJWM1oyZDFOc2VUaE1Nbk50VjJaUmVFWkNSa0l6WTNOM01YZFNSbHBSVjFCak1HaFVhM055UkUwMU5HZzVaRVpJV1ZGU1dUSTNkRFpZZGxwVlJtd3ZaSEk1VkdGWVJuTjJhWFJQTW5CbVVuWk5RazR5U25WMWJrRkZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd05EVTBORGMxQ1dacGJHVTZUV0ZzYkdGeVpGOHdMak11TWw5aGJXUTJOQzVCY0hCSmJXRm5aUXBXZEVkS1VqSlJPRVZWWjAxeFdXMTNhMUUwY1ZSMlpHOURUaTl5UTFsRFVGUm9RalJuVjJGRVFuTnhTMjVvVUc5WFozQmFNbEJGU25CalJrRk1URE51VDAxb1ZqbDBLMVZGWkZSUFpYcHRkRTlRU0hwRFp6MDlDZz09",
+      "url": "https://github.com/wizardquack/mallard/releases/download/v0.3.2/Mallard_0.3.2_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTWkRGNmF6QXJWM1oyZDFjMFJ6bFJWR1ZJYjJkS2VGZEVlbWhPVFVwTE0xSjVWekppWTNrMlFqZ3pha1ppWnpsbmJHOW9VRkZhYUVoVFlXNW5VbGQxTm5GeVlXWnBMMXBwYkRBeFRqaE5ZMXBCYVdvMk5VVkxWRWhSVFhoWGFuYzBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd05EVTBORE0zQ1dacGJHVTZUV0ZzYkdGeVpGOHdMak11TWw5NE5qUmZaVzR0VlZNdWJYTnBDa1J0YjFwSlNuRlRTRU50VUVVdlVFdGllRE5QV0RaclIwSnhiVU5ZWkdJeldFUnlXVk4wVGt0bFVqaGlibnBEY1U4MGQxZEZTVGhOVERVM1dUQnlRekE1UW5KaWRIZENSWFYzTTFwQmFrSlFiVmhHY1VOblBUMEs=",
+      "url": "https://github.com/wizardquack/mallard/releases/download/v0.3.2/Mallard_0.3.2_x64_en-US.msi"
+    }
+  }
 }
