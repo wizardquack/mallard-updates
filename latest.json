@@ -1,19 +1,19 @@
 {
-  "version": "v0.12.0",
-  "notes": "See https://github.com/wizardquack/mallard/releases/tag/v0.12.0",
-  "pub_date": "2026-06-23T18:15:44Z",
+  "version": "v0.13.0",
+  "notes": "See https://github.com/wizardquack/mallard/releases/tag/v0.13.0",
+  "pub_date": "2026-06-26T20:20:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZDF6azArV3Z2d2RiRUJJdTFISURISmYwbHZqK3NXSjc1YzZ3R3NPYlB0aE9ySVNkR083V2pxOUgzZ2lYK1A2MlBZalN1a1NndG5XY3N2b2g3L2RxbXcxSnRVOG0zVGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjM4NTQyCWZpbGU6TWFsbGFyZC5hcHAudGFyLmd6ClhyUVgxNlBJUExaR05CNi91TmxJTE5VVjlHT0RhSVlKYzdqeVRJbkhNR2xtbm5MTzNYVzNZYUgvR0pzcmNmUDlvckFhaEdNcmNBc1d1T3VCSEtlOEFnPT0K",
-      "url": "https://mallard-updates.vnsf.xyz/artifacts/v0.12.0/Mallard_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZDF6azArV3Z2d1QrRGMzbmk4V3dwYTdScWNxSkN1YlB2blY3ODFXN0xKNjBsalBhMFhoM3VyMTlMWXB4OWF5L2krTmNpMkpzV1JCMkQyQk1TODR0T3huaWZSY2lLd2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTA1MjIzCWZpbGU6TWFsbGFyZC5hcHAudGFyLmd6ClhhUlRBY3RMYXBNUWJTd3k1b3NZcUwyREJudkR0U2sycGFIVUhocXVtaktNTVRMVHVkOTJWWitIbHJZNjdZQmd4d0hNaFhrTGhMTGlaZG5uRUpVSUNRPT0K",
+      "url": "https://mallard-updates.vnsf.xyz/artifacts/v0.13.0/Mallard_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZDF6azArV3Z2d2FaN2hMLyswdXM3THBnK3lMUm9LNCtSUnE1N09jenI4ZzBiZUlTWXdiTUs4NTEyd3RiSEtSbzQwTlBIcERjSVlNN1llRXl4UnBoZkh5a2t2Wi9sOXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjM4OTc0CWZpbGU6TWFsbGFyZF8wLjEyLjBfYW1kNjQuQXBwSW1hZ2UKaVBGNEtLc05WbUtoOHFQK1JOdVVDODRpbkRwdmtRL3ZlWUQyUmNJZW5FaFc3QUtlbEJwRmdqalV2Z0JwMHIyM0hSYitWZ2MwaENYYzF3d0FudkJaQkE9PQo=",
-      "url": "https://mallard-updates.vnsf.xyz/artifacts/v0.12.0/Mallard_0.12.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZDF6azArV3Z2d1FGdlBnRFF3UHQ3YTBsS2V4cFBiNjVLaHl5b28xNUhMeDM2eXNvZW1qb2VBeFcvLzJlT2cwbzBTKzdTem1qN3M2UFBSeGtpSWpwbEdHb01zNHdwWHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTA1NTQwCWZpbGU6TWFsbGFyZF8wLjEzLjBfYW1kNjQuQXBwSW1hZ2UKaGhxRWIxM284NExCOTAwQVRiY3hVanlNeHIzaml5Znljb25tck5rV1prcElzSGJxQ2Uydk9vbkpYQnY4RnB5SGg0cjdxSFRvL21xMis1Ym42S2xQQWc9PQo=",
+      "url": "https://mallard-updates.vnsf.xyz/artifacts/v0.13.0/Mallard_0.13.0_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZDF6azArV3Z2d1YxNlhCTUJqdWFBTUdqZGZUSmI5UUYyTEI2SmlUR2dETkdDZCt1VW5rNkFpSFJhanJQSHBTWDM1VEgwS2FiUG5iQ1VXaDdPYkpEcW5vVTZ0cmRQRmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjM5MTk4CWZpbGU6TWFsbGFyZF8wLjEyLjBfeDY0X2VuLVVTLm1zaQpvaFZ2R2tMekRFT1cxZXVBZmNIZGJsK2g1WkNteXRxWVQ0Q0YwRFlEdkNwN3FOWk5XY2diTTVxK2tNSzJPSnM3NzRHYVBaOE5rUXhTT1BQYjIzWS9BUT09Cg==",
-      "url": "https://mallard-updates.vnsf.xyz/artifacts/v0.12.0/Mallard_0.12.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZDF6azArV3Z2d1VYOWs2WjZnN0lGWWladnBYUmczSXpPMjkzMkVCdC9meDQ4WEM1L1ozSTQwcE94VWhYZ2JDSXhHbkc0eEUxSEpsWUtRc1F6S242STJCcmFSajFmTEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTA1ODczCWZpbGU6TWFsbGFyZF8wLjEzLjBfeDY0X2VuLVVTLm1zaQp3dFFXUzdsUGJsT0loUE1aN2RtTTlUNndadkxQaDN4TzhXd2FGTWwvejFPYVZHck5XNlEvVlZtb1VINWhnUjN2bU40eFljZ1pXU0xiNGZLSlVuN05BZz09Cg==",
+      "url": "https://mallard-updates.vnsf.xyz/artifacts/v0.13.0/Mallard_0.13.0_x64_en-US.msi"
     }
   }
 }
